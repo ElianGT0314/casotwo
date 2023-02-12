@@ -1,2 +1,3 @@
 # casotwo
-este es el ejemplo para hacer un repository de web a local 
+ya lo modifique de forma local ahora vamos a la web a ver los resultados del cambio 
+esta es la parctiva de el henryprepcours
